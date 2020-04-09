@@ -1,6 +1,6 @@
-# РК1, ИУ5-64Б: Меркулова Н.А.
+# РК1, ИУ5-64Б, Меркулова Н.А.
 
-**Вариант 9** (задача 2, [датасет 4](https://www.kaggle.com/noriuk/us-education-datasets-unification-project))
+**Вариант 9** (задача 2, [датасет 1](https://www.kaggle.com/noriuk/us-education-datasets-unification-project))
 
 Для заданного набора данных проведите обработку пропусков в данных для одного категориального и одного количественного признака. Какие способы обработки пропусков в данных для категориальных и количественных признаков Вы использовали? Какие признаки Вы будете использовать для дальнейшего построения моделей машинного обучения и почему?
 
@@ -20,23 +20,7 @@ data = pd.read_csv('./data.csv')
 data
 ```
 
-
-
-
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -444,19 +428,6 @@ data
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
