@@ -1,4 +1,4 @@
-# РК1, ИУ5-64Б: Меркулова Н.А.
+# РК1, ИУ5-64Б, Меркулова Н.А.
 
 **Вариант 9** (задача 2, [датасет 4](https://www.kaggle.com/noriuk/us-education-datasets-unification-project))
 
